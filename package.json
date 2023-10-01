@@ -1,6 +1,6 @@
 {
     "name": "scepter",
-    "displayName": "Scepter",
+    "displayName": "Scepter Theme",
     "description": "A dark theme based on halcyon",
     "version": "0.0.1",
     "engines": {
@@ -10,7 +10,7 @@
         "Themes"
     ],
     "icon": "./images/logo.png",
-    "publisher": "Isaac Wilson",
+    "publisher": "IsaacWilson",
     "repository": {
         "type": "git",
         "url": "https://github.com/wisac/scepter-theme",
