@@ -2,7 +2,7 @@
    "name": "scepter",
    "displayName": "Scepter Theme",
    "description": "A dark theme based on halcyon",
-   "version": "1.0.1",
+   "version": "1.1.0",
    "engines": {
       "vscode": "^1.82.0"
    },
@@ -21,7 +21,8 @@
             "label": "scepter",
             "uiTheme": "vs-dark",
             "path": "./themes/scepter-color-theme.json"
-         },  {
+         },
+         {
             "label": "scepter (darker)",
             "uiTheme": "vs-dark",
             "path": "./themes/scepter-darker-color-theme.json"
