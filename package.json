@@ -9,7 +9,7 @@
    "categories": [
       "Themes"
    ],
-   "icon": "./imagesj/logo.png",
+   "icon": "./images/logo.png",
    "publisher": "IsaacWilson",
    "repository": {
       "type": "git",
@@ -21,6 +21,10 @@
             "label": "scepter",
             "uiTheme": "vs-dark",
             "path": "./themes/scepter-color-theme.json"
+         },  {
+            "label": "scepter (darker)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/scepter-darker-color-theme.json"
          }
       ]
    }
