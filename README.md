@@ -2,7 +2,7 @@
 
 # Scepter - Custom VS Code Color Theme
 
-![Sample Screenshot](https://github.com/wisac/scepter-theme/blob/main/images/Screenshot.png?raw=true)
+![Sample Screenshot](https://github.com/wisac/scepter-theme/blob/main/images/screenshot1.png?raw=true)
 
 ## Overview
 
