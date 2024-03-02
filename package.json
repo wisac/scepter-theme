@@ -1,7 +1,7 @@
 {
    "name": "scepter",
    "displayName": "Scepter Theme",
-   "description": "A dark theme based on halcyon",
+   "description": "A dark theme based on halcyon. Improves readability!",
    "version": "1.1.0",
    "engines": {
       "vscode": "^1.82.0"
