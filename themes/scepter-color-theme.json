@@ -453,7 +453,11 @@
             "meta.template.expression",
             "meta.tag.block.any.html",
             "string.unquoted.tag-string.nunjucks",
-            "text.html.nunjucks"
+            "text.html.nunjucks",
+            "meta.embedded.block.html",
+            "punctuation.definition.tag.begin.html", 
+            "meta.tag.metadata.script.end.html",
+            "source.js-ignored-vscode",
          ],
          "settings": {
             "foreground": "#e6ebf9"
