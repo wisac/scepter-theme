@@ -444,19 +444,23 @@
       {
          "name": "Operator, Misc",
          "scope": [
-            "punctuation.definition.tag",
-            "punctuation.separator.inheritance.php",
-            "punctuation.definition.tag.html",
-            "punctuation.section.embedded",
-            "keyword.other.template",
-            "keyword.other.substitution",
-            "meta.brace",
-            "meta.jsx",
-            "meta.embedded.expression",
-            "meta.template.expression",
             "meta.tag.block.any.html",
             "string.unquoted.tag-string.nunjucks",
-            "text.html.nunjucks"
+            "text.html.nunjucks",
+            "meta.embedded.block.html",
+            "punctuation.definition.tag.begin.html",
+            "punctuation.definition.tag.end.html",
+            "meta.tag.metadata.script.end.html",
+            "source.js-ignored-vscode",
+            "meta.tag.metadata.style.end.html",
+            "meta.embedded.block.html",
+            "text.html.derivative",
+            "meta.tag.metadata.style.end.html",
+            "source.css-ignored-vscode",
+            // "punctuation.definition.tag.begin.html",
+            "meta.tag.metadata.style.end.html",
+            // "meta.embedded.block.html",
+            // "text.html.derivative"
          ],
          "settings": {
             "foreground": "#dae1f3"
